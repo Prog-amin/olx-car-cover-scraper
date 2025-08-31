@@ -1,0 +1,1797 @@
+================================================================================
+OLX CAR COVER SCRAPING REPORT
+================================================================================
+
+Search performed on: 2025-08-31 19:06:43
+URLs attempted: https://www.olx.in/items/q-car-cover, https://www.olx.in/cars_c84/q-car-cover, https://www.olx.in/all-india/q-car-cover
+Total listings found: 114
+Scraper version: Enhanced v2.0
+
+LISTINGS SUMMARY:
+--------------------------------------------------
+
+[LISTING 1]
+ID: 1816380938
+Title: Car seat cover
+Price: ₹ 6,000
+Location: Guwahati
+Locality: Guwahati
+URL: https://www.olx.in/item/car-seat-cover-iid-1816380938
+Image: https://apollo.olx.in:443/v1/files/447bxx71ar4j-IN/image
+Featured: No
+Description: Car seat cover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 2]
+ID: 1816157623
+Title: 2bhk flat for Sale with covered car parking
+Price: ₹ 47,00,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/2bhk-flat-for-sale-with-covered-car-parking-iid-1816157623
+Image: https://apollo.olx.in:443/v1/files/rfbur9murtej3-IN/image
+Featured: No
+Description: Spacious 2bhk flat for sale in a peaceful area of pisoli. The flat is unfurnished and ready for your personal touch.
+
+Highlights:
+
+2 bedrooms, 2 bathrooms
+Unfurnished
+Lift, 24/7 security
+Parking avail...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 3]
+ID: 1813208782
+Title: Car body cover available in wholesale market price
+Price: ₹ 500
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/car-body-cover-available-in-wholesale-market-price-iid-1813208782
+Image: https://apollo.olx.in:443/v1/files/56xwmkr0uq3q2-IN/image
+Featured: No
+Description: All types of car cover available in market price...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 4]
+ID: 1818599678
+Title: Driven good condition and new car seat cover and running good driving
+Price: ₹ 6,50,000
+Location: Gwalior
+Locality: Gwalior
+URL: https://www.olx.in/item/driven-good-condition-and-new-car-seat-cover-and-running-good-driving-iid-1818599678
+Image: https://apollo.olx.in:443/v1/files/wc2nhb6uyrpr-IN/image
+Featured: No
+Description: Personal reasons...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 5]
+ID: 1816396942
+Title: 1.5 KM-KINFRA, 5 KM-Techno Park, CC TV, Covered Parking for Cars&Bikes
+Price: ₹ 13,500
+Location: Thiruvananthapuram
+Locality: Thiruvananthapuram
+URL: https://www.olx.in/item/1-5-km-kinfra-5-km-techno-park-cc-tv-covered-parking-for-cars-bikes-iid-1816396942
+Image: https://apollo.olx.in:443/v1/files/9n23q6swvtfa1-IN/image
+Featured: No
+Description: 1.5 Km from KINFRA, KAZHAKKOOTTAM.
+5 Kms from Technopark
+6 Kms to Techno city 
+2.5 Km from CHRIST NAGAR INTERNATIONAL SCHOOL.
+1 Km from St. Thomas Institute for Science & Technology
+2 Km From St Thoma...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 6]
+ID: 1818594709
+Title: Car Spekars pioneer with cover 2 pic
+Price: ₹ 2,500
+Location: Parbhani
+Locality: Parbhani
+URL: https://www.olx.in/item/car-spekars-pioneer-with-cover-2-pic-iid-1818594709
+Image: https://apollo.olx.in:443/v1/files/r5kahcfzgw2g-IN/image
+Featured: No
+Description: Car Spekars pioneer...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 7]
+ID: 1802577846
+Title: 75 Gaj newly constructed home with covered car parking
+Price: ₹ 33,00,001
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/75-gaj-newly-constructed-home-with-covered-car-parking-iid-1802577846
+Image: https://apollo.olx.in:443/v1/files/mmrcj0rga4e11-ADVIN/image
+Featured: No
+Description: 75 Gajnewly constructed home in nangla
+enclave 1 Faridabad.
+Size - ( 15x45) 75 gaj property with covered car parking.
+Price - 33 Lakh
+Bank loan available upto 90%
+Contact for more details.
+7      0   ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 8]
+ID: 1806490193
+Title: Newly build 75 Sq yards home with covered car parking
+Price: ₹ 33,00,111
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/newly-build-75-sq-yards-home-with-covered-car-parking-iid-1806490193
+Image: https://apollo.olx.in:443/v1/files/qna0t4oevg3i-IN/image
+Featured: No
+Description: 75 Gaj newly constructed home in nangla enclave Faridabad.
+size - 75 gaj(15x45) home
+Price - 33 Lakh
+MCF Authorised colony
+Bank loan available upto 90%
+Contact for more details.
+7     0    4     2    ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 9]
+ID: 1818581436
+Title: Car flag road flag road golden colour and black cover
+Price: ₹ 399
+Location: Kota
+Locality: Kota
+URL: https://www.olx.in/item/car-flag-road-flag-road-golden-colour-and-black-cover-iid-1818581436
+Image: https://apollo.olx.in:443/v1/files/vqjfudb5h259-IN/image
+Featured: No
+Description: Not used in my car because issues urgent sale and very low price new 5 days old...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 10]
+ID: 1818066760
+Title: Fully furnished 3 bhk with lift and covered car parking for dispoal
+Price: ₹ 1,15,00,000
+Location: Kolkata
+Locality: Kolkata
+URL: https://www.olx.in/item/fully-furnished-3-bhk-with-lift-and-covered-car-parking-for-dispoal-iid-1818066760
+Image: https://apollo.olx.in:443/v1/files/shq5jyxpmyty1-IN/image
+Featured: No
+Description: One and half years old fully furnished flat 3bhk ,in a peaceful locality for disposal . Very near to main Road and Market, school , park...no water logging. Well maintained flat with full interiors, m...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 11]
+ID: 1818577896
+Title: Verna band new waterproof car cover at cheap price
+Price: 
+Location: Gurgaon
+Locality: Gurgaon
+URL: https://www.olx.in/item/verna-band-new-waterproof-car-cover-at-cheap-price-iid-1818577896
+Image: https://apollo.olx.in:443/v1/files/nzelfj88zil51-IN/image
+Featured: No
+Description: Verna band new waterproof car cover, rarely used, at cheap price  I.e INR 1200...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 12]
+ID: 1818564807
+Title: RHS rear view mirror cover. For suzuki cars . Swift ertiga etc
+Price: ₹ 500
+Location: Calangute
+Locality: Calangute
+URL: https://www.olx.in/item/rhs-rear-view-mirror-cover-for-suzuki-cars-swift-ertiga-etc-iid-1818564807
+Image: https://apollo.olx.in:443/v1/files/bu3hc0e6emg43-IN/image
+Featured: No
+Description: New condition....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 13]
+ID: 1818152585
+Title: Branded New Waterproof Car Body Cover-UV Protection,Heavy Duty.
+Price: ₹ 2,400
+Location: Mysuru
+Locality: Mysuru
+URL: https://www.olx.in/item/branded-new-waterproof-car-body-cover-uv-protection-heavy-duty-iid-1818152585
+Image: https://apollo.olx.in:443/v1/files/0no57mcnt8al2-IN/image
+Featured: No
+Description: New Heavy Duty and Best Waterproof Car Body Cover suitable for all model car  UV Protection, Heavy Duty, All-Weather, Custom Fit  Indoor Outdoor Dust-Proof...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 14]
+ID: 1818556599
+Title: SWIFT CAR COVER LIKE NEW
+Price: ₹ 500
+Location: Achanta
+Locality: Achanta
+URL: https://www.olx.in/item/swift-car-cover-like-new-iid-1818556599
+Image: https://apollo.olx.in:443/v1/files/73lyrle1okt43-IN/image
+Featured: No
+Description: Swift car cover like new...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 15]
+ID: 1818556372
+Title: car cover for sell, bought for tata tigor, thick material, gud quality
+Price: ₹ 55,000
+Location: Ahmedabad
+Locality: Ahmedabad
+URL: https://www.olx.in/item/car-cover-for-sell-bought-for-tata-tigor-thick-material-gud-quality-iid-1818556372
+Image: https://apollo.olx.in:443/v1/files/skrq898ts0cj1-IN/image
+Featured: No
+Description: car cover for rain and sunlight...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 16]
+ID: 1789276286
+Title: 107 Gaj home with covered car parking near by main market
+Price: ₹ 45,00,000
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/107-gaj-home-with-covered-car-parking-near-by-main-market-iid-1789276286
+Image: https://apollo.olx.in:443/v1/files/snfj4qh41n4k1-IN/image
+Featured: No
+Description: 107 Sq yards home in nangla enclave faridabad
+near by main market 
+2bhk with covered car parking
+85-90% bank loan available
+Mcf Authorised colony
+Contact for more details
+7     0    4    2    4    5  ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 17]
+ID: 1817273548
+Title: Back end IT office,10+ seat, covered car parking, DG, Kakkanad,EKM
+Price: ₹ 24,000
+Location: Kochi
+Locality: Kochi
+URL: https://www.olx.in/item/back-end-it-office-10-seat-covered-car-parking-dg-kakkanad-ekm-iid-1817273548
+Image: https://apollo.olx.in:443/v1/files/k0te8i2vlzid1-IN/image
+Featured: No
+Description: Back end IT office,10+ seat, covered car parking, DG
+
+Furnishing cost Extra
+Kakkanad,
+
+Ernakulam ,
+Kochi...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 18]
+ID: 1818546705
+Title: 2 Bhk flat for SALE with COVERED CAR PARKING
+Price: ₹ 31,50,000
+Location: Bardhaman
+Locality: Bardhaman
+URL: https://www.olx.in/item/2-bhk-flat-for-sale-with-covered-car-parking-iid-1818546705
+Image: https://apollo.olx.in:443/v1/files/bsiii32p4j9n3-IN/image
+Featured: No
+Description: Flat in new condition. Lift is not available. Near Police Line. CALL for more details....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 19]
+ID: 1817117078
+Title: MG Astor original brand new car cover
+Price: ₹ 1,800
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/mg-astor-original-brand-new-car-cover-iid-1817117078
+Image: https://apollo.olx.in:443/v1/files/5bdmaxek5uaq1-IN/image
+Featured: No
+Description: MG Astor original brand new car cover for sale...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 20]
+ID: 1815486549
+Title: One BHK semi furnished flat with covered car parking
+Price: ₹ 7,500
+Location: Rishikesh
+Locality: Rishikesh
+URL: https://www.olx.in/item/one-bhk-semi-furnished-flat-with-covered-car-parking-iid-1815486549
+Image: https://apollo.olx.in:443/v1/files/dgmi1co2pjj21-IN/image
+Featured: No
+Description: One BHK semi furnished flats available for rent in BEES BIGHA, BAPUGRAM,BETWEEN AIIMS AND IDPL...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 21]
+ID: 1791569478
+Title: Autofy 100% waterproof Altroz car cover
+Price: ₹ 1,200
+Location: Bengaluru
+Locality: Bengaluru
+URL: https://www.olx.in/item/autofy-100-waterproof-altroz-car-cover-iid-1791569478
+Image: https://apollo.olx.in:443/v1/files/8bx65qt0t3bi1-IN/image
+Featured: No
+Description: Autofy
+Altroz
+Waterproof
+Japanese stitched
+Soft cotton inside 
+3 belts and elastic 
+Carry Bag...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 22]
+ID: 1818529825
+Title: Swift car 2023 sheet cover
+Price: ₹ 2,500
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/swift-car-2023-sheet-cover-iid-1818529825
+Image: https://apollo.olx.in:443/v1/files/23n7e80vv5km-IN/image
+Featured: No
+Description: Swift car 2023 orginal cover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 23]
+ID: 1799314429
+Title: 1bhk big size cover car parking
+Price: ₹ 31,00,000
+Location: Navi Mumbai
+Locality: Navi Mumbai
+URL: https://www.olx.in/item/1bhk-big-size-cover-car-parking-iid-1799314429
+Image: https://apollo.olx.in:443/v1/files/xp4ofujge8333-ADVIN/image
+Featured: No
+Description: Available mandir  zym garden kids play area clubhouse car parking CCTV security guard etc, , near by metro station, 10 minutes from central park. 30 minutes from Navi Mumbai airport etc...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 24]
+ID: 1791747352
+Title: modern manufactur car seat cover and full floor mat
+Price: 
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/modern-manufactur-car-seat-cover-and-full-floor-mat-iid-1791747352
+Image: https://apollo.olx.in:443/v1/files/9ltjgsmlpl582-IN/image
+Featured: No
+Description: Manufacturer customer choice leather car seat covers.Good quality leather, high-density foam,nylon stitching along with fitting.warranty upto 5 year free servicing.Door step fitting in Hyd...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 25]
+ID: 1801141258
+Title: IT back end office, kakkanad, covered car n bike parking,lift, D G
+Price: ₹ 24,000
+Location: Kochi
+Locality: Kochi
+URL: https://www.olx.in/item/it-back-end-office-kakkanad-covered-car-n-bike-parking-lift-d-g-iid-1801141258
+Image: https://apollo.olx.in:443/v1/files/vn5476wshdtl-IN/image
+Featured: No
+Description: IT back end office, kakkanad, covered  
+
+car n bike parking,lift, D G  avilable,
+
+Ernakulam,Kochi
+
+Kerala...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 26]
+ID: 1808973820
+Title: 3BHK SUPER SPACIOUS VERY BIG FLAT FOR SALE WITH 2 COVERED CAR PARKING
+Price: ₹ 1,99,00,000
+Location: Mumbai
+Locality: Mumbai
+URL: https://www.olx.in/item/3bhk-super-spacious-very-big-flat-for-sale-with-2-covered-car-parking-iid-1808973820
+Image: https://apollo.olx.in:443/v1/files/4079v2t0vbl7-IN/image
+Featured: No
+Description: *_3BHK SUPER SPACIOUS FLAT FOR SALE_*
+
+"JANGID INDRAYANI" - jangid Complex 
+
+Highlights :- 
+Big 1064 sqft Rera Carpet 
+Open View With Balconies 
+(With 2 Big Covered Car Parking of 20 lakhs) 
+Parking A...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 27]
+ID: 1811039886
+Title: For Sale 3BHK Luxury Builder Flat with Lift & covered Car Parking
+Price: ₹ 1,02,00,000
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/for-sale-3bhk-luxury-builder-flat-with-lift-covered-car-parking-iid-1811039886
+Image: https://apollo.olx.in:443/v1/files/74t1ortvew5v2-IN/image
+Featured: No
+Description: 3BHK Luxury Builder Flat with lift &Car Parking in Prime location.
+Loan facility available 
+Free hold Property 
+All amenities nearby Schools Hospital market temple etc....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 28]
+ID: 1817404350
+Title: Spacious 3BHK Apartment with covered car parking,– Ready to Move!
+Price: ₹ 1,46,00,000
+Location: Greater Noida
+Locality: Greater Noida
+URL: https://www.olx.in/item/spacious-3bhk-apartment-with-covered-car-parking-ready-to-move-iid-1817404350
+Image: https://apollo.olx.in:443/v1/files/8ggwlqk222jm-IN/image
+Featured: No
+Description: a persuasive marketing narrative that highlights a property's key features, unique selling points, and neighborhood benefits in a concise, compelling way, using emotive language and a clear structure ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 29]
+ID: 1810690145
+Title: Car covered parking (apartment) 1000
+Price: 
+Location: Bhubaneshwar
+Locality: Bhubaneshwar
+URL: https://www.olx.in/item/car-covered-parking-apartment-1000-iid-1810690145
+Image: https://apollo.olx.in:443/v1/files/ybae2m1gthwk-IN/image
+Featured: No
+Description: Car parking available in appartment.. covered parking...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 30]
+ID: 1798687306
+Title: 3 bhk 100 gaj independent house with covered car parking for sale
+Price: ₹ 57,00,000
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/3-bhk-100-gaj-independent-house-with-covered-car-parking-for-sale-iid-1798687306
+Image: https://apollo.olx.in:443/v1/files/yj4jb00p485g3-IN/image
+Featured: No
+Description: Gated township fully developed area near chapproula chowki harishchand ka bagh nh91 gauttam buddh nagar Tehshil dadri 
+Socity name:- samtal residency 
+Size avilable:- 60 to 100 gaj 
+Price :- 34 lac to...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 31]
+ID: 1787652614
+Title: 75 gaj home with covered car parking near sohna road highway
+Price: ₹ 33,00,100
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/75-gaj-home-with-covered-car-parking-near-sohna-road-highway-iid-1787652614
+Image: https://apollo.olx.in:443/v1/files/vw6uacmcjonh1-IN/image
+Featured: No
+Description: 75 Sq yards home in nangla enclave 1 faridabad near by sohna road highway 85-90% bank loan available
+Mcf Authorised colony
+Gated community homes
+Contact for more details
+7    0    4    2     4    5   ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 32]
+ID: 1818470084
+Title: Fronz car body cover
+Price: ₹ 2,500
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/fronz-car-body-cover-iid-1818470084
+Image: https://apollo.olx.in:443/v1/files/synohmc0p71k3-IN/image
+Featured: No
+Description: Brend new cover.i am not use thiscover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 33]
+ID: 1818448608
+Title: 2bhk flat rent family car parking covered Bharti vidyapeeth katraj
+Price: ₹ 20,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/2bhk-flat-rent-family-car-parking-covered-bharti-vidyapeeth-katraj-iid-1818448608
+Image: https://apollo.olx.in:443/v1/files/ij0j1gdh9jn5-IN/image
+Featured: No
+Description: 24 hours water 24 hours security 
+CCtv camera lift available 
+Car parking 
+Bharti vidyapeeth katraj 
+Rent 20000 deposit 50000
+Call me 
+Sai ganesh real estate...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 34]
+ID: 1818443906
+Title: 1 BHK flat with covered Car paking
+Price: ₹ 7,000
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/1-bhk-flat-with-covered-car-paking-iid-1818443906
+Image: https://apollo.olx.in:443/v1/files/67itckvfa6e83-IN/image
+Featured: No
+Description: 1 BHk flat fully furnished with 2 folding bed , 2 single sitter sofa and 1 three sitter sofa, IGL gas pipeline connection with curtains in all rooms and fan. There is covered parking for 1 car and 1 b...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 35]
+ID: 1818429103
+Title: 2BHK with covered Car Parking for rent
+Price: ₹ 10,500
+Location: Mannargudi
+Locality: Mannargudi
+URL: https://www.olx.in/item/2bhk-with-covered-car-parking-for-rent-iid-1818429103
+Image: https://apollo.olx.in:443/v1/files/0r13nlcia0zr2-IN/image
+Featured: No
+Description: 2BHK with covered Car Parking for rent near Bypass Road, KPS Nagar. Near by schools and colleges...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 36]
+ID: 1818021789
+Title: Back end IT,Media office, covered car, Bike parking,kakkanad,EKM,Kochi
+Price: ₹ 24,000
+Location: Kochi
+Locality: Kochi
+URL: https://www.olx.in/item/back-end-it-media-office-covered-car-bike-parking-kakkanad-ekm-kochi-iid-1818021789
+Image: https://apollo.olx.in:443/v1/files/qmubl4m1x1dn-IN/image
+Featured: No
+Description: Back end IT,Media office, covered car, 
+
+Bike parking
+
+furnishing coat 1lakh
+
+kakkanad,
+
+Ernakulam,Koch i
+
+Kerala...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 37]
+ID: 1818424762
+Title: GKG IGNITE JUNGLE Car Cover
+Price: ₹ 3,000
+Location: Nidadavole
+Locality: Nidadavole
+URL: https://www.olx.in/item/gkg-ignite-jungle-car-cover-iid-1818424762
+Image: https://apollo.olx.in:443/v1/files/is438pse6sne-IN/image
+Featured: No
+Description: Car Full Body Cover,
+New Car Cover, just I used One or two Times Only and Very Thick Cover and Strong.
+I Sold My Car that' why I am Selling the Cover....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 38]
+ID: 1746532551
+Title: Car cover for Maruti Dzire!!
+Price: ₹ 1,100
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/car-cover-for-maruti-dzire-iid-1746532551
+Image: https://apollo.olx.in:443/v1/files/7mabewdxgn771-IN/image
+Featured: No
+Description: Original Car cover for Maruti Suzuki Dzire from Maruti. Bought from dealership, not used still with original package....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 39]
+ID: 1816309659
+Title: Specious 3bhk 1200 Carpet with 2 Covered Car Park in Raheja at 3.5Cr+
+Price: ₹ 3,50,00,000
+Location: Navi Mumbai
+Locality: Navi Mumbai
+URL: https://www.olx.in/item/specious-3bhk-1200-carpet-with-2-covered-car-park-in-raheja-at-3-5cr-iid-1816309659
+Image: https://apollo.olx.in:443/v1/files/tq9k0nen96u23-IN/image
+Featured: No
+Description: About Raheja Lunaris Vashi NX
+Raheja Lunaris is an upcoming high-end residential and commercial project located in Juinagar, Navi Mumbai. The township spans over 70 acres of land, with over 700+ studi...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 40]
+ID: 1816309491
+Title: 1.5Bhk Flat With Covered Car Parking at 1.12Cr+ in Nerul East Navi Mum
+Price: ₹ 1,12,00,000
+Location: Mumbai
+Locality: Mumbai
+URL: https://www.olx.in/item/1-5bhk-flat-with-covered-car-parking-at-1-12cr-in-nerul-east-navi-mum-iid-1816309491
+Image: https://apollo.olx.in:443/v1/files/d75tpjfxv7rc2-IN/image
+Featured: No
+Description: About Raheja Lunaris Vashi NX
+Raheja Lunaris is an upcoming high-end residential and commercial project located in Juinagar, Navi Mumbai. The township spans over 70 acres of land, with over 700+ studi...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 41]
+ID: 1805724400
+Title: Brembo brake caliper covers all colours available for all cars
+Price: ₹ 699
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/brembo-brake-caliper-covers-all-colours-available-for-all-cars-iid-1805724400
+Image: https://apollo.olx.in:443/v1/files/ep3qq237eju53-ADVIN/image
+Featured: No
+Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 42]
+ID: 1818412669
+Title: Car cover tata
+Price: 
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/car-cover-tata-iid-1818412669
+Image: https://apollo.olx.in:443/v1/files/lh1wix7shyky2-IN/image
+Featured: No
+Description: Tata tigor car cover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 43]
+ID: 1816367628
+Title: Newly constructed 2BHK houses with covered car parking
+Price: ₹ 9,000
+Location: Senthamangalam
+Locality: Senthamangalam
+URL: https://www.olx.in/item/newly-constructed-2bhk-houses-with-covered-car-parking-iid-1816367628
+Image: https://apollo.olx.in:443/v1/files/jgkkg1h3atk61-IN/image
+Featured: No
+Description: Newly constructed 3 houses available for rent.two 2 BHK with covered car parking available for rent....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 44]
+ID: 1817077364
+Title: 75 Gaj home with covered car parking
+Price: ₹ 33,00,020
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/75-gaj-home-with-covered-car-parking-iid-1817077364
+Image: https://apollo.olx.in:443/v1/files/mu698lvs3qwx1-IN/image
+Featured: No
+Description: 75 Sq yards independent home in nangla enclave Faridabad
+2 bedroom home with Covered car parking ,semi furnished house .
+Size - 15x45
+Price - 33 Lakh
+Upto 90% bank loan available
+Mcf authorised colony...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 45]
+ID: 1805302317
+Title: A 5000 SQFT COMMERCIAL OFFICE SPACE WITH COVERED CAR PARK FOR RENT
+Price: ₹ 3,00,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/a-5000-sqft-commercial-office-space-with-covered-car-park-for-rent-iid-1805302317
+Image: https://apollo.olx.in:443/v1/files/sw309qx4h1ll1-ADVIN/image
+Featured: No
+Description: Available for rent: a spacious 5,000 SQFT commercial office space ideal for corporate offices, startups, or professional firms, featuring modern infrastructure and ample natural light. The property in...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 46]
+ID: 1805288003
+Title: A 1350 SQFT FURNISHED 2BHK FLAT WITH COVERED CAR PARK AVAIL FOR RENT
+Price: ₹ 75,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/a-1350-sqft-furnished-2bhk-flat-with-covered-car-park-avail-for-rent-iid-1805288003
+Image: https://apollo.olx.in:443/v1/files/fccc9d326bb12-ADVIN/image
+Featured: No
+Description: A fully furnished 2BHK flat spanning 1350 sq. ft. is available for rent, featuring spacious interiors, modern amenities, and a covered car parking space, offering a comfortable and convenient lifestyl...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 47]
+ID: 1804964379
+Title: A 800 SQFT FURNISHED 1BHK FLAT COVERED CAR PARK AVAILABLE FOR RENT
+Price: ₹ 40,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/a-800-sqft-furnished-1bhk-flat-covered-car-park-available-for-rent-iid-1804964379
+Image: https://apollo.olx.in:443/v1/files/5igna6spgqtt-ADVIN/image
+Featured: No
+Description: A fully furnished 1BHK flat spanning 800 sqft is available for rent, offering a comfortable and well-maintained living space ideal for individuals or couples. The apartment comes equipped with essenti...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 48]
+ID: 1817309926
+Title: Maruti Suzuki Grand vitara new car rim and wheel cover (set of 4)
+Price: ₹ 8,000
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/maruti-suzuki-grand-vitara-new-car-rim-and-wheel-cover-set-of-4-iid-1817309926
+Image: https://apollo.olx.in:443/v1/files/5mpy3ygomqhy2-IN/image
+Featured: No
+Description: Maruti Suzuki Grand vitara new car rim and wheel cover (set of 4)...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 49]
+ID: 1818330234
+Title: Brand New 2 BHK Flat For Rent With Covered Car Parking at Choolaimedu
+Price: ₹ 25,000
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/brand-new-2-bhk-flat-for-rent-with-covered-car-parking-at-choolaimedu-iid-1818330234
+Image: https://apollo.olx.in:443/v1/files/ks93e2kaghdz-IN/image
+Featured: No
+Description: Brand New 2 BHK Flat Rent With Covered Car Parking 
+
+Measuring Area  921sq
+Position at Second Floor 
+Tiles Flooring 
+24 Hours Water 
+Asper Vasthu Design, East Facing 
+Covered Car Parking
+
+Near
+1. Girl...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 50]
+ID: 1776374025
+Title: MODERN manufactur car seat cover
+Price: 
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/modern-manufactur-car-seat-cover-iid-1776374025
+Image: https://apollo.olx.in:443/v1/files/r09z74z5hni43-IN/image
+Featured: No
+Description: Manufacturer customer choice leather car seat covers.Good quality leather, high-density foam,nylon stitching along with fitting.warranty upto 5 year free servicing.Door step fitting in Hyd...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 51]
+ID: 1787565848
+Title: 3 BHK luxury independent floor with lift covered car parking
+Price: ₹ 46,99,999
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/3-bhk-luxury-independent-floor-with-lift-covered-car-parking-iid-1787565848
+Image: https://apollo.olx.in:443/v1/files/skp4bvwwhkao3-IN/image
+Featured: No
+Description: This is new construction 3 BHK luxury independent floor with lift covered car parking near by main road good location.
+1. Near by market 
+2.all school around 500 meters.
+3. Atm also available near by ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 52]
+ID: 1818323729
+Title: Car waterproof cover
+Price: ₹ 1,500
+Location: Zirakpur
+Locality: Zirakpur
+URL: https://www.olx.in/item/car-waterproof-cover-iid-1818323729
+Image: https://apollo.olx.in:443/v1/files/9rn2d5pdi3so1-IN/image
+Featured: No
+Description: Car water proof cover in good condition. Basically for Venue,exter and cars in same segment....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 53]
+ID: 1810233785
+Title: All cars side mirror cover abs plastic piano black batman style
+Price: ₹ 2,000
+Location: Guwahati
+Locality: Guwahati
+URL: https://www.olx.in/item/all-cars-side-mirror-cover-abs-plastic-piano-black-batman-style-iid-1810233785
+Image: https://apollo.olx.in:443/v1/files/ovheyirfu122-IN/image
+Featured: No
+Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 54]
+ID: 1818311146
+Title: Required labour Car decor works like seat covers and electric fittings
+Price: 
+Location: Buldana
+Locality: Buldana
+URL: https://www.olx.in/item/required-labour-car-decor-works-like-seat-covers-and-electric-fittings-iid-1818311146
+Image: https://apollo.olx.in:443/v1/files/gynm0vj86869-IN/image
+Featured: No
+Description: Car decor accessories fitting...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 55]
+ID: 1817413699
+Title: IT, Media office, covered car n bike parking, Kakkanad Kochi
+Price: ₹ 24,000
+Location: Kochi
+Locality: Kochi
+URL: https://www.olx.in/item/it-media-office-covered-car-n-bike-parking-kakkanad-kochi-iid-1817413699
+Image: https://apollo.olx.in:443/v1/files/cne5ly5flbw5-IN/image
+Featured: No
+Description: IT, Media office, 
+Automatic DG, Lift, care taker 
+covered car n bike parking, Kakkanad Kochi
+Ernakulam, Kerala...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 56]
+ID: 1818251115
+Title: Car Key cover premium BMW type of Hyundai compatible undergiven cars
+Price: ₹ 250
+Location: Bokaro Steel City
+Locality: Bokaro Steel City
+URL: https://www.olx.in/item/car-key-cover-premium-bmw-type-of-hyundai-compatible-undergiven-cars-iid-1818251115
+Image: https://apollo.olx.in:443/v1/files/beqd2zxf89wp2-IN/image;w=shot-on-olx
+Featured: No
+Description: Auto Thrill Premium Metal Silicon Key Cover Compatible with Hyundai i20  Creta  Venue  Tucson  Alcazar  Verna  Xcent  Aura  Elantra  3 Button Flip Key only
+
+
+Not used fully new condition all the screw...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 57]
+ID: 1818248499
+Title: Seltos car cover original
+Price: ₹ 1,500
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/seltos-car-cover-original-iid-1818248499
+Image: https://apollo.olx.in:443/v1/files/558ht0v0l1eg-IN/image
+Featured: No
+Description: Kia seltos...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 58]
+ID: 1818248444
+Title: All new car with new seat cover all ok
+Price: ₹ 3,20,000
+Location: Gurdaspur
+Locality: Gurdaspur
+URL: https://www.olx.in/item/all-new-car-with-new-seat-cover-all-ok-iid-1818248444
+Image: https://apollo.olx.in:443/v1/files/x4op8i9sdzrr3-IN/image
+Featured: No
+Description: Buy a new one...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 59]
+ID: 1818243289
+Title: Xuv700 car cover
+Price: ₹ 3,500
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/xuv700-car-cover-iid-1818243289
+Image: https://apollo.olx.in:443/v1/files/bq3liduh3s113-IN/image
+Featured: No
+Description: 0 usage .
+Soft surface inside anti scratch inner layer ....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 60]
+ID: 1763316022
+Title: 3bhk MICL (1.85 All inclusive) With 1 Alloted covered car park
+Price: ₹ 1,90,00,000
+Location: Mumbai
+Locality: Mumbai
+URL: https://www.olx.in/item/3bhk-micl-1-85-all-inclusive-with-1-alloted-covered-car-park-iid-1763316022
+Image: https://apollo.olx.in:443/v1/files/w08gaeen94xc-IN/image
+Featured: No
+Description: Kindly contact for more information & visit...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 61]
+ID: 1817148538
+Title: car bilkul new jaisi 4tyre seat cover new paper 05/2031 tak tiptop car
+Price: ₹ 1,60,000
+Location: Jaunpur
+Locality: Jaunpur
+URL: https://www.olx.in/item/car-bilkul-new-jaisi-4tyre-seat-cover-new-paper-05-2031-tak-tiptop-car-iid-1817148538
+Image: https://apollo.olx.in:443/v1/files/5k1blau1ivqa1-IN/image
+Featured: No
+Description: Need Money...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 62]
+ID: 1818221632
+Title: Back end IT office, covered car,Bike parking kakkanad Kochi,Ernakulam
+Price: ₹ 24,000
+Location: Kochi
+Locality: Kochi
+URL: https://www.olx.in/item/back-end-it-office-covered-car-bike-parking-kakkanad-kochi-ernakulam-iid-1818221632
+Image: https://apollo.olx.in:443/v1/files/eqhhcim9fta-IN/image
+Featured: No
+Description: Back end IT office, covered car,
+
+Bike parking 
+
+Kakkanad 
+
+Kochi,
+
+Ernakulam...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 63]
+ID: 1818215736
+Title: 2 bhk flat with covered car parking in Gated Society
+Price: ₹ 48,99,999
+Location: Kolkata
+Locality: Kolkata
+URL: https://www.olx.in/item/2-bhk-flat-with-covered-car-parking-in-gated-society-iid-1818215736
+Image: https://apollo.olx.in:443/v1/files/vznrhty0xd3y-IN/image
+Featured: No
+Description: It's a well ventilated 2 bhk flat at 11th floor (in a 12 storeyed building) with 1 covered parking in a Gated and well maintained society. Completely unused flat . Good view.. all facilities like Club...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 64]
+ID: 1812853041
+Title: All cars side mirror batman cover abs plastic piano black
+Price: ₹ 2,999
+Location: Vijayawada
+Locality: Vijayawada
+URL: https://www.olx.in/item/all-cars-side-mirror-batman-cover-abs-plastic-piano-black-iid-1812853041
+Image: https://apollo.olx.in:443/v1/files/70jzyygn60x82-IN/image
+Featured: No
+Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 65]
+ID: 1812311995
+Title: All cars side mirror cover batman style abs
+Price: ₹ 2,500
+Location: Mumbai
+Locality: Mumbai
+URL: https://www.olx.in/item/all-cars-side-mirror-cover-batman-style-abs-iid-1812311995
+Image: https://apollo.olx.in:443/v1/files/idy2actxaaiz2-IN/image
+Featured: No
+Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 66]
+ID: 1818212056
+Title: All cars side mirror covers abs
+Price: ₹ 1,999
+Location: Alappuzha
+Locality: Alappuzha
+URL: https://www.olx.in/item/all-cars-side-mirror-covers-abs-iid-1818212056
+Image: https://apollo.olx.in:443/v1/files/rlv2kbwhej442-IN/image
+Featured: No
+Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 67]
+ID: 1818211301
+Title: Jen 2002 model new tier new music system new set cover all orisnel car
+Price: ₹ 60,000
+Location: Gurdaspur
+Locality: Gurdaspur
+URL: https://www.olx.in/item/jen-2002-model-new-tier-new-music-system-new-set-cover-all-orisnel-car-iid-1818211301
+Image: https://apollo.olx.in:443/v1/files/nsqnjugbaq6r3-IN/image
+Featured: No
+Description: 2002 model jen lx 2027 takk passing hy vry good condition carr hy...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 68]
+ID: 1817735767
+Title: COVERED CAR PARKING WITH CCTV PROTECTION FOR RENT IN ROYAPETTAH
+Price: ₹ 3,500
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/covered-car-parking-with-cctv-protection-for-rent-in-royapettah-iid-1817735767
+Image: https://apollo.olx.in:443/v1/files/o1byj4eelrmb-IN/image
+Featured: No
+Description: Covered car parking space for rent in Royapettah 24/7 CCTV in car parking. Car Parking Rent for 3500/-...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 69]
+ID: 1818208438
+Title: Excellent car,20+avg New seat covers, android player, full modified.
+Price: ₹ 2,40,000
+Location: Bathinda
+Locality: Bathinda
+URL: https://www.olx.in/item/excellent-car-20-avg-new-seat-covers-android-player-full-modified-iid-1818208438
+Image: https://apollo.olx.in:443/v1/files/uim3uxf88y401-IN/image
+Featured: No
+Description: Want to purchase cng car,velhe door rehn...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 70]
+ID: 1815693933
+Title: Waterproof thar car cover
+Price: ₹ 1,800
+Location: Dehradun
+Locality: Dehradun
+URL: https://www.olx.in/item/waterproof-thar-car-cover-iid-1815693933
+Image: https://apollo.olx.in:443/v1/files/o47x7634st6y2-IN/image
+Featured: No
+Description: New thar cover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 71]
+ID: 1816492331
+Title: 1.5Bhk With Covered Car Parking at 1.05Cr++ in Raheja Lunaris Nerul E.
+Price: ₹ 1,05,00,000
+Location: Navi Mumbai
+Locality: Navi Mumbai
+URL: https://www.olx.in/item/1-5bhk-with-covered-car-parking-at-1-05cr-in-raheja-lunaris-nerul-e-iid-1816492331
+Image: https://apollo.olx.in:443/v1/files/ljdtojdqo6v33-IN/image
+Featured: No
+Description: Raheja Lunaris is an astonishing residential tower in the exceptional township - Raheja District in Vashi NX. It comprises 2 & 3 BHK apartments efficiently designed with the finest interiors, contempo...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 72]
+ID: 1817047903
+Title: 2 BHK flat with 2 balcony & Covered Car Parking
+Price: ₹ 20,500
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/2-bhk-flat-with-2-balcony-covered-car-parking-iid-1817047903
+Image: https://apollo.olx.in:443/v1/files/cqrl74wc7pce-IN/image
+Featured: No
+Description: I want to rent out a 2 bhk apartment available in krishna smruti garden,kad wasti, pune east.Located in a serene place, it has a carpet area of 895 sq.Ft. It is an attractive and a newly constructed p...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 73]
+ID: 1818185454
+Title: Ertiga Car Cover for sale
+Price: ₹ 1,000
+Location: Visakhapatnam
+Locality: Visakhapatnam
+URL: https://www.olx.in/item/ertiga-car-cover-for-sale-iid-1818185454
+Image: https://apollo.olx.in:443/v1/files/ts9tw8yl7tlj1-IN/image
+Featured: No
+Description: Ertiga Car cover sealed cover worth 1500 for sale...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 74]
+ID: 1818183454
+Title: BALENO CAR BODY COVER
+Price: ₹ 750
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/baleno-car-body-cover-iid-1818183454
+Image: https://apollo.olx.in:443/v1/files/kfbitcv9dekp3-IN/image
+Featured: No
+Description: Baleno car body cover for rain and dust...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 75]
+ID: 1818169832
+Title: Hyundai Aura OE car cover for sale
+Price: ₹ 700
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/hyundai-aura-oe-car-cover-for-sale-iid-1818169832
+Image: https://apollo.olx.in:443/v1/files/3y1w3ac75cyq-IN/image
+Featured: No
+Description: Hyundai Aura OE car cover for sale, no used ven for single time also rubber cut mat is also available for sale...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 76]
+ID: 1818157904
+Title: 2BHK Fully Furnished with covered car parking near to viman Nagar
+Price: ₹ 35,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/2bhk-fully-furnished-with-covered-car-parking-near-to-viman-nagar-iid-1818157904
+Image: https://apollo.olx.in:443/v1/files/5h5h3gif397-IN/image
+Featured: No
+Description: 2bhk fully furnished with all daily basic need items , Ready to Move In freshly painted, Modular Kitchen,  box Bed In each bedroom, Refrigerator, Semi automatic washing machine, Gas stove, Smart TV, T...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 77]
+ID: 1817914675
+Title: Jack and tata tiago car cover
+Price: 
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/jack-and-tata-tiago-car-cover-iid-1817914675
+Image: https://apollo.olx.in:443/v1/files/t8mtl00c8h7m2-IN/image;w=shot-on-olx
+Featured: No
+Description: Buyed and didn’t used it...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 78]
+ID: 1818136585
+Title: Spacious 2BHK with covered car parking for rent
+Price: ₹ 18,000
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/spacious-2bhk-with-covered-car-parking-for-rent-iid-1818136585
+Image: https://apollo.olx.in:443/v1/files/mh53enqbzmvt3-IN/image
+Featured: No
+Description: Spacious 2BHK with covered car parking for rent...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 79]
+ID: 1818127163
+Title: Covered car parking space for rent
+Price: ₹ 3,000
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/covered-car-parking-space-for-rent-iid-1818127163
+Image: https://apollo.olx.in:443/v1/files/jn8grudypr1r2-IN/image
+Featured: No
+Description: Car parking, in apartment, no flooding, safety...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 80]
+ID: 1815561937
+Title: Saligramam 3 BHK Flat for Sale with Covered Car Parking
+Price: ₹ 87,74,000
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/saligramam-3-bhk-flat-for-sale-with-covered-car-parking-iid-1815561937
+Image: https://apollo.olx.in:443/v1/files/v9u50xvnx2zw-IN/image
+Featured: No
+Description: Saligramam 3 BHK Flat for Sale with Covered Car Parking 
+
+Build Up : 1054 sq ft
+UDS : 457 sq ft
+3rd Floor
+3 BHK
+G+3 Floors
+Covered Car Parking Available 
+Landmark : Astra Academy
+
+*Sale Rate Starts at...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 81]
+ID: 1802991925
+Title: All cars side mirror cover batman style abs plastic piano black
+Price: ₹ 2,500
+Location: Madurai
+Locality: Madurai
+URL: https://www.olx.in/item/all-cars-side-mirror-cover-batman-style-abs-plastic-piano-black-iid-1802991925
+Image: https://apollo.olx.in:443/v1/files/l5tai0pdz01n1-ADVIN/image
+Featured: No
+Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats. Lip and roof spoiler. ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 82]
+ID: 1816577525
+Title: Car Wheel Cover 15 Inch - 4 Piece
+Price: ₹ 600
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/car-wheel-cover-15-inch-4-piece-iid-1816577525
+Image: https://apollo.olx.in:443/v1/files/xindljc2hnvi-IN/image
+Featured: No
+Description: Car Wheel cover 15 Inch  - 4 Piece...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 83]
+ID: 1818099016
+Title: Car accessories seat cover delivery and purchase
+Price: 
+Location: Kollam
+Locality: Kollam
+URL: https://www.olx.in/item/car-accessories-seat-cover-delivery-and-purchase-iid-1818099016
+Image: https://apollo.olx.in:443/v1/files/cqy430nq0h203-IN/image
+Featured: No
+Description: Car accessories seat cover delivery and purchase...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 84]
+ID: 1805661816
+Title: Two bhk wid covered car parking lift in janakpuri nr metro park facing
+Price: ₹ 99,30,996
+Location: Delhi
+Locality: Delhi
+URL: https://www.olx.in/item/two-bhk-wid-covered-car-parking-lift-in-janakpuri-nr-metro-park-facing-iid-1805661816
+Image: https://apollo.olx.in:443/v1/files/s6jznvpc0ysq2-ADVIN/image
+Featured: No
+Description: 2bhk for sale in janakpuri wid lift & car parking 990sqft only at 1cr
+
+1. 2 BEDROOM
+
+2. 1 DRAWING ROOM with texture
+
+3. 1Room Having Wooden Flooring Tiles Luks Gud
+
+4. SEMI FURNISHED FLOOR
+
+5. MODULAR...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 85]
+ID: 1818083314
+Title: Car Monsoon Cover
+Price: ₹ 500
+Location: Visakhapatnam
+Locality: Visakhapatnam
+URL: https://www.olx.in/item/car-monsoon-cover-iid-1818083314
+Image: https://apollo.olx.in:443/v1/files/cz0i3jttw1ps-IN/image
+Featured: No
+Description: Suitable for Santro Zip, Santro Xing, WagonR, Honda Brio, etc....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 86]
+ID: 1817432270
+Title: Nexon car cover
+Price: ₹ 2,000
+Location: Delhi
+Locality: Delhi
+URL: https://www.olx.in/item/nexon-car-cover-iid-1817432270
+Image: https://apollo.olx.in:443/v1/files/itozmp11z5542-IN/image
+Featured: No
+Description: Aapane apni kar bhej Di to Ham cover bhi dekh rahe hain...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 87]
+ID: 1817738328
+Title: Hector Car seat covers
+Price: ₹ 3,300
+Location: Mumbai
+Locality: Mumbai
+URL: https://www.olx.in/item/hector-car-seat-covers-iid-1817738328
+Image: https://apollo.olx.in:443/v1/files/pq0vpg3kvdoa-IN/image
+Featured: No
+Description: Very good condition HECTOR CAR SEAT COVERS all covers ALMOST NEW Red colour, we did not want to use red colour, someone gave to us , but we changed it, for another colour Therefore  the covers are in ...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 88]
+ID: 1818026632
+Title: Car cover swift zxi+
+Price: ₹ 1,300
+Location: Jodhpur
+Locality: Jodhpur
+URL: https://www.olx.in/item/car-cover-swift-zxi-iid-1818026632
+Image: https://apollo.olx.in:443/v1/files/yjyj4e27n2q52-IN/image
+Featured: No
+Description: Mein car cover bech raha ho...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 89]
+ID: 1818020700
+Title: Wheel Cover (Silver)OEM Fits Maruti Cars
+Price: ₹ 1,200
+Location: Aluva
+Locality: Aluva
+URL: https://www.olx.in/item/wheel-cover-silver-oem-fits-maruti-cars-iid-1818020700
+Image: https://apollo.olx.in:443/v1/files/7ssn8dq8v4wk1-IN/image
+Featured: No
+Description: Wheel Cover (Silver) fits perfectly for Maruti Swift / Swift Dzire. 4pcs set packed OEM, Rs.300/pc( negotiable)....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 90]
+ID: 1818016966
+Title: Behala 14no,Covered car parking for rent, 2mins from main road
+Price: ₹ 5,000
+Location: Kolkata
+Locality: Kolkata
+URL: https://www.olx.in/item/behala-14no-covered-car-parking-for-rent-2mins-from-main-road-iid-1818016966
+Image: https://apollo.olx.in:443/v1/files/zz52hl7ibe1b2-IN/image
+Featured: No
+Description: Behala 14no bus stand, Pratima apartment, 5 Roy bahadur road...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 91]
+ID: 1814312723
+Title: Small car cover
+Price: ₹ 300
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/small-car-cover-iid-1814312723
+Image: https://apollo.olx.in:443/v1/files/s18yiax3flag-IN/image
+Featured: No
+Description: No damage   No stains...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 92]
+ID: 1816950892
+Title: 2bhk & Covered Car Parking-SALE
+Price: ₹ 53,00,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/2bhk-covered-car-parking-sale-iid-1816950892
+Image: https://apollo.olx.in:443/v1/files/fp7lrlf8pgrc2-IN/image
+Featured: No
+Description: 2BHK Flat on SALE
+* 1 Personal Covered Car Parking
+* 2 Bathrooms & Toilets (Indian+Western)
+* 2 Bedrooms 
+* 1 Balcony
+* 1 Kitchen attached dry balcony
+* 24x7 Water Service
+* 24x7 CCTV Survillence
+* 24...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 93]
+ID: 1817978433
+Title: Maruti Suzuki fronx car cover
+Price: ₹ 1,050
+Location: Bareilly
+Locality: Bareilly
+URL: https://www.olx.in/item/maruti-suzuki-fronx-car-cover-iid-1817978433
+Image: https://apollo.olx.in:443/v1/files/ytb12cbos9ag1-IN/image
+Featured: No
+Description: Maruti Suzuki fronx car cover 
+Bilkul new hai khula bhi nahi h
+Ek dum new hai...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 94]
+ID: 1817541513
+Title: Villas for sale at kovilancheri .Specious design ,covered car parking!
+Price: ₹ 85,00,000
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/villas-for-sale-at-kovilancheri-specious-design-covered-car-parking-iid-1817541513
+Image: https://apollo.olx.in:443/v1/files/9kmqob7eoxjb-IN/image
+Featured: No
+Description: Premiem villa in kovilancheri. Dtcp and rera approved . Residential zone.  Bank loan available ....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 95]
+ID: 1816477033
+Title: 4BHK,5 Washroom, North Facing ,2 car Covered parking, AdequatSun light
+Price: ₹ 85,00,000
+Location: Vadodara
+Locality: Vadodara
+URL: https://www.olx.in/item/4bhk-5-washroom-north-facing-2-car-covered-parking-adequatsun-light-iid-1816477033
+Image: https://apollo.olx.in:443/v1/files/9yxztupvbfq92-IN/image
+Featured: No
+Description: Premium Residential complex -exclusive living for 40 Families. 
+Experienmce a serene and well ventilated living environment with abundant natural sunlight  throughout the day. This exclusive residenti...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 96]
+ID: 1817951090
+Title: Hyundai Exter Car Cover
+Price: ₹ 500
+Location: Bengaluru
+Locality: Bengaluru
+URL: https://www.olx.in/item/hyundai-exter-car-cover-iid-1817951090
+Image: https://apollo.olx.in:443/v1/files/j7bb4sh0tlnm2-IN/image
+Featured: No
+Description: Hyundai Exter Car Cover
+Original price :- 1100
+Selling price:- 500
+
+Only used for 15 days
+
+Selling it because I Sold my car yesterday....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 97]
+ID: 1625487590
+Title: Ahmed car Matings and seat cover whole sale Distributor
+Price: 
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/ahmed-car-matings-and-seat-cover-whole-sale-distributor-iid-1625487590
+Image: https://apollo.olx.in:443/v1/files/s93jm6qmzh2j1-IN/image
+Featured: No
+Description: Car Matings and seat cover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 98]
+ID: 1817943331
+Title: Car seat cover i 10 balino alto all car seat covers
+Price: 
+Location: Dehradun
+Locality: Dehradun
+URL: https://www.olx.in/item/car-seat-cover-i-10-balino-alto-all-car-seat-covers-iid-1817943331
+Image: https://apollo.olx.in:443/v1/files/c4s5d8scvrm51-IN/image
+Featured: No
+Description: 6 n0 puliya dehradun uttarakhan3500 m seat cover bast fiting k saath...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 99]
+ID: 1792721639
+Title: Personal covered car parking
+Price: ₹ 95,00,000
+Location: Greater Noida
+Locality: Greater Noida
+URL: https://www.olx.in/item/personal-covered-car-parking-iid-1792721639
+Image: https://apollo.olx.in:443/v1/files/r8awo7f2up8p2-IN/image
+Featured: No
+Description: Gated society...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 100]
+ID: 1817923398
+Title: Car Cover Brezza
+Price: ₹ 400
+Location: Faridabad
+Locality: Faridabad
+URL: https://www.olx.in/item/car-cover-brezza-iid-1817923398
+Image: https://apollo.olx.in:443/v1/files/2s220qgb41iv1-IN/image
+Featured: No
+Description: Car Body Cover Compatible with Maruti Suzuki Brezza Custom Fit Dustproof UV Heat Resistant Indoor Outdoor Body Protection (Grey with Mirror)...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 101]
+ID: 1817922234
+Title: Punch car cover
+Price: 
+Location: Kumaranellur
+Locality: Kumaranellur
+URL: https://www.olx.in/item/punch-car-cover-iid-1817922234
+Image: https://apollo.olx.in:443/v1/files/8ihh3htzo8nc-IN/image
+Featured: No
+Description: New punch car cover only one time use...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 102]
+ID: 1817919279
+Title: Waterproof,Dust proof car cover
+Price: ₹ 1,500
+Location: Anantapur
+Locality: Anantapur
+URL: https://www.olx.in/item/waterproof-dust-proof-car-cover-iid-1817919279
+Image: https://apollo.olx.in:443/v1/files/tex6i2tbz02h-IN/image
+Featured: No
+Description: This car cover is mainly for the small cars like Alto800 etc. we selling this car cover because we have ordered the car cover that doesn't fit to my car 
+Features:
+1) Dust proof 
+2) water resistant 
+3...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 103]
+ID: 1817905220
+Title: Covered car parking for rent
+Price: 
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/covered-car-parking-for-rent-iid-1817905220
+Image: https://apollo.olx.in:443/v1/files/wxcyvdypmkmo1-IN/image
+Featured: No
+Description: Sedan or hatchback car parking available for Rent at 3000 per month...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 104]
+ID: 1812203773
+Title: This is completely car accessories & car seats covers
+Price: 
+Location: Hyderabad
+Locality: Hyderabad
+URL: https://www.olx.in/item/this-is-completely-car-accessories-car-seats-covers-iid-1812203773
+Image: https://apollo.olx.in:443/v1/files/838lmymocqry1-IN/image
+Featured: No
+Description: Car care & car accessories
+Seats covers Android systems
+Feel free  msg me...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 105]
+ID: 1817880077
+Title: New flat 2 BHK Flat on Rent with Covered Car Parking
+Price: ₹ 17,000
+Location: Pune
+Locality: Pune
+URL: https://www.olx.in/item/new-flat-2-bhk-flat-on-rent-with-covered-car-parking-iid-1817880077
+Image: https://apollo.olx.in:443/v1/files/zm7w55ovbtpp3-IN/image
+Featured: No
+Description: New flat 2 BHK Flat on Rent with Covered Car Parking...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 106]
+ID: 1817868505
+Title: Altos car cover non usage 800 rs
+Price: ₹ 800
+Location: Yamunanagar
+Locality: Yamunanagar
+URL: https://www.olx.in/item/altos-car-cover-non-usage-800-rs-iid-1817868505
+Image: https://apollo.olx.in:443/v1/files/kujmu3i8n5ie3-IN/image
+Featured: No
+Description: Altos car cover 800 rs...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 107]
+ID: 1817862688
+Title: Coimbatore Cheran Ma nagar 2 BHK 2 Bathroom with Covered Car Parking
+Price: ₹ 25,000
+Location: Coimbatore
+Locality: Coimbatore
+URL: https://www.olx.in/item/coimbatore-cheran-ma-nagar-2-bhk-2-bathroom-with-covered-car-parking-iid-1817862688
+Image: https://apollo.olx.in:443/v1/files/i60uyx0g6ttg-IN/image
+Featured: No
+Description: Coimbatore Cheran Ma nagar 2 BHK 2 Bathroom with Covered Car Parking CCTV 24 HRS ,Semifurnished Flats 
+ whatsapp call only
+Rent - 24000 Rs including Maintenace...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 108]
+ID: 1817849697
+Title: Independent Villa with Four 1BHk & 2BHk flats and covered car parking
+Price: ₹ 1,40,00,000
+Location: Siliguri
+Locality: Siliguri
+URL: https://www.olx.in/item/independent-villa-with-four-1bhk-2bhk-flats-and-covered-car-parking-iid-1817849697
+Image: https://apollo.olx.in:443/v1/files/ydxd9r96yxzx2-IN/image
+Featured: No
+Description: Laketown Deshbandhupara
+South facing 60ft front
+18 ft wide SMC road
+Land area : 2.25 katha
+7 Bedroom, 4 kitchen, 6 bathroom, individual garage for car parking 
+Two storied complete building with build...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 109]
+ID: 1817604251
+Title: Fully Ventilated 2 BHK Flat With 1 Car Parking Covered
+Price: ₹ 42,50,000
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/fully-ventilated-2-bhk-flat-with-1-car-parking-covered-iid-1817604251
+Image: https://apollo.olx.in:443/v1/files/nxoqi86imnzr2-IN/image
+Featured: No
+Description: I'm selling 2 BHK flat fully vanilated with car parking which is covered and location is also good. Everything are nearby with our flat....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 110]
+ID: 1817828367
+Title: car cover available
+Price: ₹ 1,200
+Location: Puducherry
+Locality: Puducherry
+URL: https://www.olx.in/item/car-cover-available-iid-1817828367
+Image: https://apollo.olx.in:443/v1/files/yl0h2wzklozq1-IN/image
+Featured: No
+Description: car available suv included
+company brand...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 111]
+ID: 1817813933
+Title: Maruti Fronx Car Seat Cover USED
+Price: ₹ 1,899
+Location: Ujjain
+Locality: Ujjain
+URL: https://www.olx.in/item/maruti-fronx-car-seat-cover-used-iid-1817813933
+Image: https://apollo.olx.in:443/v1/files/6i56iccymsfy-IN/image
+Featured: No
+Description: Used seat cover...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 112]
+ID: 1817812967
+Title: Wagon r car cover
+Price: 
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/wagon-r-car-cover-iid-1817812967
+Image: https://apollo.olx.in:443/v1/files/gu605hp4hrme2-IN/image
+Featured: No
+Description: Water proof cover, Mene apni car ke liya tha cover lekin papa bhi le aye the cover mere pass ek extra cover ho gya hai iss liye sell kar rha hu....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 113]
+ID: 1812480090
+Title: APARTMENT RENT 26 2 BHK COVERED CAR PARKING LIFT AVAILABLE
+Price: ₹ 26,000
+Location: Chennai
+Locality: Chennai
+URL: https://www.olx.in/item/apartment-rent-26-2-bhk-covered-car-parking-lift-available-iid-1812480090
+Image: https://apollo.olx.in:443/v1/files/b9ap9wazhbkb1-IN/image
+Featured: No
+Description: APARTMENT RENT 26 NOT NEGOTIABLE
+TWO BHK 
+TWO BOTH 
+
+SQFT 900
+
+
+TWO BALCONY
+
+WEST FACING 
+
+LIFT AVAILABLE
+SECURITY 
+CCTV CAMERA
+METRO WATER & BORE WATER
+
+MMM HOSPITAL & COLLECTOR NAGAR MAIN ROAD 5 MIN...
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+[LISTING 114]
+ID: 1816498799
+Title: Wanna rent my 2bhk flat garden facing with cover car parking
+Price: ₹ 7,800
+Location: Raipur
+Locality: Raipur
+URL: https://www.olx.in/item/wanna-rent-my-2bhk-flat-garden-facing-with-cover-car-parking-iid-1816498799
+Image: https://apollo.olx.in:443/v1/files/4jebhl4c677m3-IN/image
+Featured: No
+Description: Wanna rent my garden facing 2bhk flat well located with cover car parking....
+Source: olx_api
+Scraped: 2025-08-31 19:06:43
+----------------------------------------
+
+================================================================================
+END OF REPORT
+================================================================================
