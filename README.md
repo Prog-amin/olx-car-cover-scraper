@@ -1,4 +1,4 @@
-# OLX Car Cover Scraper (Enhanced v2.0)
+# OLX Car Cover Scraper
 
 A Python scraper that fetches car-cover related listings from OLX India using the relevance API first (fast, structured), with Selenium fallbacks if needed. Saves results as JSON, CSV, and a human-readable report.
 
