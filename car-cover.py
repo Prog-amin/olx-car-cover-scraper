@@ -1308,6 +1308,25 @@ def main():
     if getattr(args, 'featured_first', False):
         scraper.featured_first = True
     
+    # Strict API-only fast path: fetch, save, and exit without touching Selenium
+    if scraper.api_only:
+        print("\n🧪 API-only mode: skipping Selenium entirely")
+        try:
+            api_items = scraper.fetch_via_relevance_api(query=scraper.api_query, size=scraper.api_size, location=scraper.api_location)
+            api_items = scraper.remove_duplicates(api_items or [])
+            enhanced = scraper.enhance_listings(api_items)
+            scraper.save_results(enhanced)
+            print(f"\n✅ API-only SUCCESS: {len(enhanced)} listings saved")
+        except Exception as e:
+            print(f"❌ API-only failure: {e}")
+        print("\n🎉 Scraping process completed!")
+        if not args.no_pause:
+            try:
+                input("Press Enter to exit...")
+            except Exception:
+                pass
+        return
+
     print(f"\n🚀 Starting enhanced scraping process...")
     print(f"   Mode: {'Headless' if headless else 'Visible'}")
     print(f"   Target: Car covers on OLX India")

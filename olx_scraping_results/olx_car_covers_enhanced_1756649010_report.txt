@@ -2,7 +2,7 @@
 OLX CAR COVER SCRAPING REPORT
 ================================================================================
 
-Search performed on: 2025-08-31 19:06:43
+Search performed on: 2025-08-31 19:33:30
 URLs attempted: https://www.olx.in/items/q-car-cover, https://www.olx.in/cars_c84/q-car-cover, https://www.olx.in/all-india/q-car-cover
 Total listings found: 114
 Scraper version: Enhanced v2.0
@@ -11,20 +11,6 @@ LISTINGS SUMMARY:
 --------------------------------------------------
 
 [LISTING 1]
-ID: 1816380938
-Title: Car seat cover
-Price: ₹ 6,000
-Location: Guwahati
-Locality: Guwahati
-URL: https://www.olx.in/item/car-seat-cover-iid-1816380938
-Image: https://apollo.olx.in:443/v1/files/447bxx71ar4j-IN/image
-Featured: No
-Description: Car seat cover...
-Source: olx_api
-Scraped: 2025-08-31 19:06:43
-----------------------------------------
-
-[LISTING 2]
 ID: 1816157623
 Title: 2bhk flat for Sale with covered car parking
 Price: ₹ 47,00,000
@@ -42,10 +28,10 @@ Unfurnished
 Lift, 24/7 security
 Parking avail...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
-[LISTING 3]
+[LISTING 2]
 ID: 1813208782
 Title: Car body cover available in wholesale market price
 Price: ₹ 500
@@ -56,7 +42,21 @@ Image: https://apollo.olx.in:443/v1/files/56xwmkr0uq3q2-IN/image
 Featured: No
 Description: All types of car cover available in market price...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
+----------------------------------------
+
+[LISTING 3]
+ID: 1815486549
+Title: One BHK semi furnished flat with covered car parking
+Price: ₹ 7,500
+Location: Rishikesh
+Locality: Rishikesh
+URL: https://www.olx.in/item/one-bhk-semi-furnished-flat-with-covered-car-parking-iid-1815486549
+Image: https://apollo.olx.in:443/v1/files/dgmi1co2pjj21-IN/image
+Featured: No
+Description: One BHK semi furnished flats available for rent in BEES BIGHA, BAPUGRAM,BETWEEN AIIMS AND IDPL...
+Source: olx_api
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 4]
@@ -70,7 +70,7 @@ Image: https://apollo.olx.in:443/v1/files/wc2nhb6uyrpr-IN/image
 Featured: No
 Description: Personal reasons...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 5]
@@ -89,7 +89,7 @@ Description: 1.5 Km from KINFRA, KAZHAKKOOTTAM.
 1 Km from St. Thomas Institute for Science & Technology
 2 Km From St Thoma...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 6]
@@ -103,7 +103,7 @@ Image: https://apollo.olx.in:443/v1/files/r5kahcfzgw2g-IN/image
 Featured: No
 Description: Car Spekars pioneer...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 7]
@@ -123,7 +123,7 @@ Bank loan available upto 90%
 Contact for more details.
 7      0   ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 8]
@@ -143,7 +143,7 @@ Bank loan available upto 90%
 Contact for more details.
 7     0    4     2    ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 9]
@@ -157,7 +157,7 @@ Image: https://apollo.olx.in:443/v1/files/vqjfudb5h259-IN/image
 Featured: No
 Description: Not used in my car because issues urgent sale and very low price new 5 days old...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 10]
@@ -171,7 +171,7 @@ Image: https://apollo.olx.in:443/v1/files/shq5jyxpmyty1-IN/image
 Featured: No
 Description: One and half years old fully furnished flat 3bhk ,in a peaceful locality for disposal . Very near to main Road and Market, school , park...no water logging. Well maintained flat with full interiors, m...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 11]
@@ -185,7 +185,7 @@ Image: https://apollo.olx.in:443/v1/files/nzelfj88zil51-IN/image
 Featured: No
 Description: Verna band new waterproof car cover, rarely used, at cheap price  I.e INR 1200...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 12]
@@ -199,7 +199,7 @@ Image: https://apollo.olx.in:443/v1/files/bu3hc0e6emg43-IN/image
 Featured: No
 Description: New condition....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 13]
@@ -213,7 +213,7 @@ Image: https://apollo.olx.in:443/v1/files/0no57mcnt8al2-IN/image
 Featured: No
 Description: New Heavy Duty and Best Waterproof Car Body Cover suitable for all model car  UV Protection, Heavy Duty, All-Weather, Custom Fit  Indoor Outdoor Dust-Proof...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 14]
@@ -227,7 +227,7 @@ Image: https://apollo.olx.in:443/v1/files/73lyrle1okt43-IN/image
 Featured: No
 Description: Swift car cover like new...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 15]
@@ -241,7 +241,7 @@ Image: https://apollo.olx.in:443/v1/files/skrq898ts0cj1-IN/image
 Featured: No
 Description: car cover for rain and sunlight...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 16]
@@ -261,7 +261,7 @@ Mcf Authorised colony
 Contact for more details
 7     0    4    2    4    5  ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 17]
@@ -281,7 +281,7 @@ Kakkanad,
 Ernakulam ,
 Kochi...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 18]
@@ -295,10 +295,25 @@ Image: https://apollo.olx.in:443/v1/files/bsiii32p4j9n3-IN/image
 Featured: No
 Description: Flat in new condition. Lift is not available. Near Police Line. CALL for more details....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 19]
+ID: 1818056285
+Title: Car seat cover
+Price: ₹ 500
+Location: Ghaziabad
+Locality: Ghaziabad
+URL: https://www.olx.in/item/car-seat-cover-iid-1818056285
+Image: https://apollo.olx.in/v1/files/0n0pnhfu32pq1-IN/image
+Featured: No
+Description: 1 Car seat cover
+Wooden beaded...
+Source: olx_api
+Scraped: 2025-08-31 19:33:30
+----------------------------------------
+
+[LISTING 20]
 ID: 1817117078
 Title: MG Astor original brand new car cover
 Price: ₹ 1,800
@@ -309,21 +324,7 @@ Image: https://apollo.olx.in:443/v1/files/5bdmaxek5uaq1-IN/image
 Featured: No
 Description: MG Astor original brand new car cover for sale...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
-----------------------------------------
-
-[LISTING 20]
-ID: 1815486549
-Title: One BHK semi furnished flat with covered car parking
-Price: ₹ 7,500
-Location: Rishikesh
-Locality: Rishikesh
-URL: https://www.olx.in/item/one-bhk-semi-furnished-flat-with-covered-car-parking-iid-1815486549
-Image: https://apollo.olx.in:443/v1/files/dgmi1co2pjj21-IN/image
-Featured: No
-Description: One BHK semi furnished flats available for rent in BEES BIGHA, BAPUGRAM,BETWEEN AIIMS AND IDPL...
-Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 21]
@@ -343,7 +344,7 @@ Soft cotton inside
 3 belts and elastic 
 Carry Bag...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 22]
@@ -357,7 +358,7 @@ Image: https://apollo.olx.in:443/v1/files/23n7e80vv5km-IN/image
 Featured: No
 Description: Swift car 2023 orginal cover...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 23]
@@ -371,7 +372,7 @@ Image: https://apollo.olx.in:443/v1/files/xp4ofujge8333-ADVIN/image
 Featured: No
 Description: Available mandir  zym garden kids play area clubhouse car parking CCTV security guard etc, , near by metro station, 10 minutes from central park. 30 minutes from Navi Mumbai airport etc...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 24]
@@ -385,7 +386,7 @@ Image: https://apollo.olx.in:443/v1/files/9ltjgsmlpl582-IN/image
 Featured: No
 Description: Manufacturer customer choice leather car seat covers.Good quality leather, high-density foam,nylon stitching along with fitting.warranty upto 5 year free servicing.Door step fitting in Hyd...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 25]
@@ -405,7 +406,7 @@ Ernakulam,Kochi
 
 Kerala...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 26]
@@ -427,7 +428,7 @@ Open View With Balconies
 (With 2 Big Covered Car Parking of 20 lakhs) 
 Parking A...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 27]
@@ -444,7 +445,7 @@ Loan facility available
 Free hold Property 
 All amenities nearby Schools Hospital market temple etc....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 28]
@@ -458,7 +459,7 @@ Image: https://apollo.olx.in:443/v1/files/8ggwlqk222jm-IN/image
 Featured: No
 Description: a persuasive marketing narrative that highlights a property's key features, unique selling points, and neighborhood benefits in a concise, compelling way, using emotive language and a clear structure ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 29]
@@ -472,7 +473,7 @@ Image: https://apollo.olx.in:443/v1/files/ybae2m1gthwk-IN/image
 Featured: No
 Description: Car parking available in appartment.. covered parking...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 30]
@@ -489,7 +490,7 @@ Socity name:- samtal residency
 Size avilable:- 60 to 100 gaj 
 Price :- 34 lac to...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 31]
@@ -507,7 +508,7 @@ Gated community homes
 Contact for more details
 7    0    4    2     4    5   ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 32]
@@ -521,7 +522,7 @@ Image: https://apollo.olx.in:443/v1/files/synohmc0p71k3-IN/image
 Featured: No
 Description: Brend new cover.i am not use thiscover...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 33]
@@ -541,7 +542,7 @@ Rent 20000 deposit 50000
 Call me 
 Sai ganesh real estate...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 34]
@@ -555,7 +556,7 @@ Image: https://apollo.olx.in:443/v1/files/67itckvfa6e83-IN/image
 Featured: No
 Description: 1 BHk flat fully furnished with 2 folding bed , 2 single sitter sofa and 1 three sitter sofa, IGL gas pipeline connection with curtains in all rooms and fan. There is covered parking for 1 car and 1 b...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 35]
@@ -569,7 +570,7 @@ Image: https://apollo.olx.in:443/v1/files/0r13nlcia0zr2-IN/image
 Featured: No
 Description: 2BHK with covered Car Parking for rent near Bypass Road, KPS Nagar. Near by schools and colleges...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 36]
@@ -593,7 +594,7 @@ Ernakulam,Koch i
 
 Kerala...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 37]
@@ -609,7 +610,7 @@ Description: Car Full Body Cover,
 New Car Cover, just I used One or two Times Only and Very Thick Cover and Strong.
 I Sold My Car that' why I am Selling the Cover....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 38]
@@ -623,7 +624,7 @@ Image: https://apollo.olx.in:443/v1/files/7mabewdxgn771-IN/image
 Featured: No
 Description: Original Car cover for Maruti Suzuki Dzire from Maruti. Bought from dealership, not used still with original package....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 39]
@@ -638,7 +639,7 @@ Featured: No
 Description: About Raheja Lunaris Vashi NX
 Raheja Lunaris is an upcoming high-end residential and commercial project located in Juinagar, Navi Mumbai. The township spans over 70 acres of land, with over 700+ studi...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 40]
@@ -653,7 +654,7 @@ Featured: No
 Description: About Raheja Lunaris Vashi NX
 Raheja Lunaris is an upcoming high-end residential and commercial project located in Juinagar, Navi Mumbai. The township spans over 70 acres of land, with over 700+ studi...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 41]
@@ -667,7 +668,7 @@ Image: https://apollo.olx.in:443/v1/files/ep3qq237eju53-ADVIN/image
 Featured: No
 Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 42]
@@ -681,7 +682,7 @@ Image: https://apollo.olx.in:443/v1/files/lh1wix7shyky2-IN/image
 Featured: No
 Description: Tata tigor car cover...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 43]
@@ -695,7 +696,7 @@ Image: https://apollo.olx.in:443/v1/files/jgkkg1h3atk61-IN/image
 Featured: No
 Description: Newly constructed 3 houses available for rent.two 2 BHK with covered car parking available for rent....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 44]
@@ -714,7 +715,7 @@ Price - 33 Lakh
 Upto 90% bank loan available
 Mcf authorised colony...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 45]
@@ -728,7 +729,7 @@ Image: https://apollo.olx.in:443/v1/files/sw309qx4h1ll1-ADVIN/image
 Featured: No
 Description: Available for rent: a spacious 5,000 SQFT commercial office space ideal for corporate offices, startups, or professional firms, featuring modern infrastructure and ample natural light. The property in...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 46]
@@ -742,7 +743,7 @@ Image: https://apollo.olx.in:443/v1/files/fccc9d326bb12-ADVIN/image
 Featured: No
 Description: A fully furnished 2BHK flat spanning 1350 sq. ft. is available for rent, featuring spacious interiors, modern amenities, and a covered car parking space, offering a comfortable and convenient lifestyl...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 47]
@@ -756,7 +757,7 @@ Image: https://apollo.olx.in:443/v1/files/5igna6spgqtt-ADVIN/image
 Featured: No
 Description: A fully furnished 1BHK flat spanning 800 sqft is available for rent, offering a comfortable and well-maintained living space ideal for individuals or couples. The apartment comes equipped with essenti...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 48]
@@ -770,7 +771,7 @@ Image: https://apollo.olx.in:443/v1/files/5mpy3ygomqhy2-IN/image
 Featured: No
 Description: Maruti Suzuki Grand vitara new car rim and wheel cover (set of 4)...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 49]
@@ -794,7 +795,7 @@ Covered Car Parking
 Near
 1. Girl...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 50]
@@ -808,7 +809,7 @@ Image: https://apollo.olx.in:443/v1/files/r09z74z5hni43-IN/image
 Featured: No
 Description: Manufacturer customer choice leather car seat covers.Good quality leather, high-density foam,nylon stitching along with fitting.warranty upto 5 year free servicing.Door step fitting in Hyd...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 51]
@@ -825,7 +826,7 @@ Description: This is new construction 3 BHK luxury independent floor with lift c
 2.all school around 500 meters.
 3. Atm also available near by ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 52]
@@ -839,7 +840,7 @@ Image: https://apollo.olx.in:443/v1/files/9rn2d5pdi3so1-IN/image
 Featured: No
 Description: Car water proof cover in good condition. Basically for Venue,exter and cars in same segment....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 53]
@@ -853,7 +854,7 @@ Image: https://apollo.olx.in:443/v1/files/ovheyirfu122-IN/image
 Featured: No
 Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 54]
@@ -867,7 +868,7 @@ Image: https://apollo.olx.in:443/v1/files/gynm0vj86869-IN/image
 Featured: No
 Description: Car decor accessories fitting...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 55]
@@ -884,7 +885,7 @@ Automatic DG, Lift, care taker
 covered car n bike parking, Kakkanad Kochi
 Ernakulam, Kerala...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 56]
@@ -901,7 +902,7 @@ Description: Auto Thrill Premium Metal Silicon Key Cover Compatible with Hyundai
 
 Not used fully new condition all the screw...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 57]
@@ -915,7 +916,7 @@ Image: https://apollo.olx.in:443/v1/files/558ht0v0l1eg-IN/image
 Featured: No
 Description: Kia seltos...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 58]
@@ -929,7 +930,7 @@ Image: https://apollo.olx.in:443/v1/files/x4op8i9sdzrr3-IN/image
 Featured: No
 Description: Buy a new one...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 59]
@@ -944,7 +945,7 @@ Featured: No
 Description: 0 usage .
 Soft surface inside anti scratch inner layer ....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 60]
@@ -958,7 +959,7 @@ Image: https://apollo.olx.in:443/v1/files/w08gaeen94xc-IN/image
 Featured: No
 Description: Kindly contact for more information & visit...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 61]
@@ -972,7 +973,7 @@ Image: https://apollo.olx.in:443/v1/files/5k1blau1ivqa1-IN/image
 Featured: No
 Description: Need Money...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 62]
@@ -994,7 +995,7 @@ Kochi,
 
 Ernakulam...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 63]
@@ -1008,7 +1009,7 @@ Image: https://apollo.olx.in:443/v1/files/vznrhty0xd3y-IN/image
 Featured: No
 Description: It's a well ventilated 2 bhk flat at 11th floor (in a 12 storeyed building) with 1 covered parking in a Gated and well maintained society. Completely unused flat . Good view.. all facilities like Club...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 64]
@@ -1022,7 +1023,7 @@ Image: https://apollo.olx.in:443/v1/files/70jzyygn60x82-IN/image
 Featured: No
 Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 65]
@@ -1036,7 +1037,7 @@ Image: https://apollo.olx.in:443/v1/files/idy2actxaaiz2-IN/image
 Featured: No
 Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 66]
@@ -1050,7 +1051,7 @@ Image: https://apollo.olx.in:443/v1/files/rlv2kbwhej442-IN/image
 Featured: No
 Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats.  Lip and roof spoiler....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 67]
@@ -1064,7 +1065,7 @@ Image: https://apollo.olx.in:443/v1/files/nsqnjugbaq6r3-IN/image
 Featured: No
 Description: 2002 model jen lx 2027 takk passing hy vry good condition carr hy...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 68]
@@ -1078,7 +1079,7 @@ Image: https://apollo.olx.in:443/v1/files/o1byj4eelrmb-IN/image
 Featured: No
 Description: Covered car parking space for rent in Royapettah 24/7 CCTV in car parking. Car Parking Rent for 3500/-...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 69]
@@ -1092,7 +1093,7 @@ Image: https://apollo.olx.in:443/v1/files/uim3uxf88y401-IN/image
 Featured: No
 Description: Want to purchase cng car,velhe door rehn...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 70]
@@ -1106,7 +1107,7 @@ Image: https://apollo.olx.in:443/v1/files/o47x7634st6y2-IN/image
 Featured: No
 Description: New thar cover...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 71]
@@ -1120,7 +1121,7 @@ Image: https://apollo.olx.in:443/v1/files/ljdtojdqo6v33-IN/image
 Featured: No
 Description: Raheja Lunaris is an astonishing residential tower in the exceptional township - Raheja District in Vashi NX. It comprises 2 & 3 BHK apartments efficiently designed with the finest interiors, contempo...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 72]
@@ -1134,7 +1135,7 @@ Image: https://apollo.olx.in:443/v1/files/cqrl74wc7pce-IN/image
 Featured: No
 Description: I want to rent out a 2 bhk apartment available in krishna smruti garden,kad wasti, pune east.Located in a serene place, it has a carpet area of 895 sq.Ft. It is an attractive and a newly constructed p...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 73]
@@ -1148,7 +1149,7 @@ Image: https://apollo.olx.in:443/v1/files/ts9tw8yl7tlj1-IN/image
 Featured: No
 Description: Ertiga Car cover sealed cover worth 1500 for sale...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 74]
@@ -1162,7 +1163,7 @@ Image: https://apollo.olx.in:443/v1/files/kfbitcv9dekp3-IN/image
 Featured: No
 Description: Baleno car body cover for rain and dust...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 75]
@@ -1176,7 +1177,7 @@ Image: https://apollo.olx.in:443/v1/files/3y1w3ac75cyq-IN/image
 Featured: No
 Description: Hyundai Aura OE car cover for sale, no used ven for single time also rubber cut mat is also available for sale...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 76]
@@ -1190,7 +1191,7 @@ Image: https://apollo.olx.in:443/v1/files/5h5h3gif397-IN/image
 Featured: No
 Description: 2bhk fully furnished with all daily basic need items , Ready to Move In freshly painted, Modular Kitchen,  box Bed In each bedroom, Refrigerator, Semi automatic washing machine, Gas stove, Smart TV, T...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 77]
@@ -1204,7 +1205,7 @@ Image: https://apollo.olx.in:443/v1/files/t8mtl00c8h7m2-IN/image;w=shot-on-olx
 Featured: No
 Description: Buyed and didn’t used it...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 78]
@@ -1218,7 +1219,7 @@ Image: https://apollo.olx.in:443/v1/files/mh53enqbzmvt3-IN/image
 Featured: No
 Description: Spacious 2BHK with covered car parking for rent...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 79]
@@ -1232,7 +1233,7 @@ Image: https://apollo.olx.in:443/v1/files/jn8grudypr1r2-IN/image
 Featured: No
 Description: Car parking, in apartment, no flooding, safety...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 80]
@@ -1256,7 +1257,7 @@ Landmark : Astra Academy
 
 *Sale Rate Starts at...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 81]
@@ -1270,7 +1271,7 @@ Image: https://apollo.olx.in:443/v1/files/l5tai0pdz01n1-ADVIN/image
 Featured: No
 Description: Body kit spoiler. Conversion kits. Steering and cluster upgrades. Led headlights and tail light. Arm rest . Android navigation. Aftermarket steering. Interior accessories. Mats. Lip and roof spoiler. ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 82]
@@ -1284,7 +1285,7 @@ Image: https://apollo.olx.in:443/v1/files/xindljc2hnvi-IN/image
 Featured: No
 Description: Car Wheel cover 15 Inch  - 4 Piece...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 83]
@@ -1298,7 +1299,7 @@ Image: https://apollo.olx.in:443/v1/files/cqy430nq0h203-IN/image
 Featured: No
 Description: Car accessories seat cover delivery and purchase...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 84]
@@ -1322,7 +1323,7 @@ Description: 2bhk for sale in janakpuri wid lift & car parking 990sqft only at 1
 
 5. MODULAR...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 85]
@@ -1336,7 +1337,7 @@ Image: https://apollo.olx.in:443/v1/files/cz0i3jttw1ps-IN/image
 Featured: No
 Description: Suitable for Santro Zip, Santro Xing, WagonR, Honda Brio, etc....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 86]
@@ -1350,7 +1351,7 @@ Image: https://apollo.olx.in:443/v1/files/itozmp11z5542-IN/image
 Featured: No
 Description: Aapane apni kar bhej Di to Ham cover bhi dekh rahe hain...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 87]
@@ -1364,7 +1365,7 @@ Image: https://apollo.olx.in:443/v1/files/pq0vpg3kvdoa-IN/image
 Featured: No
 Description: Very good condition HECTOR CAR SEAT COVERS all covers ALMOST NEW Red colour, we did not want to use red colour, someone gave to us , but we changed it, for another colour Therefore  the covers are in ...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 88]
@@ -1378,7 +1379,7 @@ Image: https://apollo.olx.in:443/v1/files/yjyj4e27n2q52-IN/image
 Featured: No
 Description: Mein car cover bech raha ho...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 89]
@@ -1392,7 +1393,7 @@ Image: https://apollo.olx.in:443/v1/files/7ssn8dq8v4wk1-IN/image
 Featured: No
 Description: Wheel Cover (Silver) fits perfectly for Maruti Swift / Swift Dzire. 4pcs set packed OEM, Rs.300/pc( negotiable)....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 90]
@@ -1406,7 +1407,7 @@ Image: https://apollo.olx.in:443/v1/files/zz52hl7ibe1b2-IN/image
 Featured: No
 Description: Behala 14no bus stand, Pratima apartment, 5 Roy bahadur road...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 91]
@@ -1420,7 +1421,7 @@ Image: https://apollo.olx.in:443/v1/files/s18yiax3flag-IN/image
 Featured: No
 Description: No damage   No stains...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 92]
@@ -1442,7 +1443,7 @@ Description: 2BHK Flat on SALE
 * 24x7 CCTV Survillence
 * 24...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 93]
@@ -1458,7 +1459,7 @@ Description: Maruti Suzuki fronx car cover
 Bilkul new hai khula bhi nahi h
 Ek dum new hai...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 94]
@@ -1472,7 +1473,7 @@ Image: https://apollo.olx.in:443/v1/files/9kmqob7eoxjb-IN/image
 Featured: No
 Description: Premiem villa in kovilancheri. Dtcp and rera approved . Residential zone.  Bank loan available ....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 95]
@@ -1487,7 +1488,7 @@ Featured: No
 Description: Premium Residential complex -exclusive living for 40 Families. 
 Experienmce a serene and well ventilated living environment with abundant natural sunlight  throughout the day. This exclusive residenti...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 96]
@@ -1507,7 +1508,7 @@ Only used for 15 days
 
 Selling it because I Sold my car yesterday....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 97]
@@ -1521,7 +1522,7 @@ Image: https://apollo.olx.in:443/v1/files/s93jm6qmzh2j1-IN/image
 Featured: No
 Description: Car Matings and seat cover...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 98]
@@ -1535,7 +1536,7 @@ Image: https://apollo.olx.in:443/v1/files/c4s5d8scvrm51-IN/image
 Featured: No
 Description: 6 n0 puliya dehradun uttarakhan3500 m seat cover bast fiting k saath...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 99]
@@ -1549,7 +1550,7 @@ Image: https://apollo.olx.in:443/v1/files/r8awo7f2up8p2-IN/image
 Featured: No
 Description: Gated society...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 100]
@@ -1563,7 +1564,7 @@ Image: https://apollo.olx.in:443/v1/files/2s220qgb41iv1-IN/image
 Featured: No
 Description: Car Body Cover Compatible with Maruti Suzuki Brezza Custom Fit Dustproof UV Heat Resistant Indoor Outdoor Body Protection (Grey with Mirror)...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 101]
@@ -1577,7 +1578,7 @@ Image: https://apollo.olx.in:443/v1/files/8ihh3htzo8nc-IN/image
 Featured: No
 Description: New punch car cover only one time use...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 102]
@@ -1595,7 +1596,7 @@ Features:
 2) water resistant 
 3...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 103]
@@ -1609,7 +1610,7 @@ Image: https://apollo.olx.in:443/v1/files/wxcyvdypmkmo1-IN/image
 Featured: No
 Description: Sedan or hatchback car parking available for Rent at 3000 per month...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 104]
@@ -1625,7 +1626,7 @@ Description: Car care & car accessories
 Seats covers Android systems
 Feel free  msg me...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 105]
@@ -1639,7 +1640,7 @@ Image: https://apollo.olx.in:443/v1/files/zm7w55ovbtpp3-IN/image
 Featured: No
 Description: New flat 2 BHK Flat on Rent with Covered Car Parking...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 106]
@@ -1653,7 +1654,7 @@ Image: https://apollo.olx.in:443/v1/files/kujmu3i8n5ie3-IN/image
 Featured: No
 Description: Altos car cover 800 rs...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 107]
@@ -1669,7 +1670,7 @@ Description: Coimbatore Cheran Ma nagar 2 BHK 2 Bathroom with Covered Car Parkin
  whatsapp call only
 Rent - 24000 Rs including Maintenace...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 108]
@@ -1688,7 +1689,7 @@ Land area : 2.25 katha
 7 Bedroom, 4 kitchen, 6 bathroom, individual garage for car parking 
 Two storied complete building with build...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 109]
@@ -1702,7 +1703,7 @@ Image: https://apollo.olx.in:443/v1/files/nxoqi86imnzr2-IN/image
 Featured: No
 Description: I'm selling 2 BHK flat fully vanilated with car parking which is covered and location is also good. Everything are nearby with our flat....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 110]
@@ -1717,7 +1718,7 @@ Featured: No
 Description: car available suv included
 company brand...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 111]
@@ -1731,7 +1732,7 @@ Image: https://apollo.olx.in:443/v1/files/6i56iccymsfy-IN/image
 Featured: No
 Description: Used seat cover...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 112]
@@ -1745,7 +1746,7 @@ Image: https://apollo.olx.in:443/v1/files/gu605hp4hrme2-IN/image
 Featured: No
 Description: Water proof cover, Mene apni car ke liya tha cover lekin papa bhi le aye the cover mere pass ek extra cover ho gya hai iss liye sell kar rha hu....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 113]
@@ -1775,7 +1776,7 @@ METRO WATER & BORE WATER
 
 MMM HOSPITAL & COLLECTOR NAGAR MAIN ROAD 5 MIN...
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 [LISTING 114]
@@ -1789,7 +1790,7 @@ Image: https://apollo.olx.in:443/v1/files/4jebhl4c677m3-IN/image
 Featured: No
 Description: Wanna rent my garden facing 2bhk flat well located with cover car parking....
 Source: olx_api
-Scraped: 2025-08-31 19:06:43
+Scraped: 2025-08-31 19:33:30
 ----------------------------------------
 
 ================================================================================
